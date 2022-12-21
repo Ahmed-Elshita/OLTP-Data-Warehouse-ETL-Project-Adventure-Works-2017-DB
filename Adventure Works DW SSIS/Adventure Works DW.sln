@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Adventure Works ETL SSIS", "Adventure Works ETL SSIS\Adventure Works ETL SSIS.dtproj", "{30A63222-B4C1-4AB4-97F6-1F75074C6E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A63222-B4C1-4AB4-97F6-1F75074C6E7C}.Development|Default.ActiveCfg = Development
+		{30A63222-B4C1-4AB4-97F6-1F75074C6E7C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F332BD-E255-465C-8F0F-B1D40B74B213}
+	EndGlobalSection
+EndGlobal
